@@ -1,12 +1,36 @@
-# Byte-compiled / optimized / DLL files
+# ============================================
+# Environment Variables & Sensitive Credentials
+# ============================================
+# HIDE & PROTECT ALL .env FILES FROM GIT
+.env
+.env.*
+*.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+!.env.example
+
+# Secrets, Credentials & Tokens
+secrets/
+secret.*
+*.pem
+*.key
+*.cert
+*.pfx
+.streamlit/secrets.toml
+
+# ============================================
+# Python Bytecode & Optimization Caches
+# ============================================
 __pycache__/
 *.py[cod]
 *$py.class
-
-# C extensions
 *.so
 
-# Distribution / packaging
+# ============================================
+# Distribution & Packaging
+# ============================================
 .Python
 build/
 develop-eggs/
@@ -24,8 +48,9 @@ wheels/
 .installed.cfg
 *.egg
 
-# Virtual environments
-.env
+# ============================================
+# Virtual Environments
+# ============================================
 .venv
 env/
 venv/
@@ -33,16 +58,17 @@ ENV/
 env.bak/
 venv.bak/
 
-# Streamlit secrets & temporary state
-.streamlit/secrets.toml
-
-# IDE files
+# ============================================
+# IDE & Editor Files
+# ============================================
 .vscode/
 .idea/
 *.swp
 *.swo
 
-# OS generated
+# ============================================
+# OS Generated Files
+# ============================================
 Thumbs.db
 ehthumbs.db
 Desktop.ini
