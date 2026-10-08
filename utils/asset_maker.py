@@ -1,0 +1,67 @@
+"""
+Asset generator for MentorMatch AI logo and visuals.
+Creates assets/logo.png using pure Python bytes/PPM/PNG conversion or SVG.
+"""
+
+import os
+
+ASSETS_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "assets")
+os.makedirs(ASSETS_DIR, exist_ok=True)
+
+# Also generate a crisp SVG logo
+svg_content = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 100" width="420" height="100">
+  <defs>
+    <linearGradient id="emblemBgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1c1917" />
+      <stop offset="100%" stop-color="#0c0a09" />
+    </linearGradient>
+    <linearGradient id="neonBorderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ef4444" />
+      <stop offset="50%" stop-color="#f59e0b" />
+      <stop offset="100%" stop-color="#facc15" />
+    </linearGradient>
+    <linearGradient id="sparkGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fef08a" />
+      <stop offset="100%" stop-color="#f59e0b" />
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ef4444" />
+      <stop offset="50%" stop-color="#f59e0b" />
+      <stop offset="100%" stop-color="#facc15" />
+    </linearGradient>
+    <filter id="neonGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Glowing Emblem Squircle -->
+  <g filter="url(#neonGlow)">
+    <rect x="15" y="15" width="70" height="70" rx="20" fill="url(#emblemBgGrad)" stroke="url(#neonBorderGrad)" stroke-width="2.5" />
+    <!-- Neural Mentorship M -->
+    <path d="M 30 63 L 30 38 C 30 33 33.5 31.5 37.5 34.5 L 50 45 L 62.5 34.5 C 66.5 31.5 70 33 70 38 L 70 63" 
+          stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M 39 63 L 50 50 L 61 63" 
+          stroke="url(#sparkGrad)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+    <!-- AI Spark -->
+    <path d="M 50 20 L 52 26 L 58 28 L 52 30 L 50 36 L 48 30 L 42 28 L 48 26 Z" fill="url(#sparkGrad)" />
+    <!-- Nodes -->
+    <circle cx="30" cy="38" r="3.5" fill="#ef4444" />
+    <circle cx="70" cy="38" r="3.5" fill="#facc15" />
+  </g>
+
+  <!-- Typography -->
+  <text x="105" y="55" font-family="'Syne', 'Plus Jakarta Sans', system-ui, sans-serif" font-weight="800" font-size="28" fill="#ffffff" letter-spacing="-0.03em">MENTOR<tspan fill="url(#textGrad)">MATCH</tspan></text>
+  <rect x="330" y="34" width="46" height="26" rx="13" fill="rgba(239, 68, 68, 0.2)" stroke="#facc15" stroke-width="1.5" />
+  <circle cx="343" cy="47" r="3" fill="#facc15" />
+  <text x="351" y="52" font-family="'JetBrains Mono', monospace" font-weight="800" font-size="12" fill="#fde047">AI</text>
+  <text x="107" y="75" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-weight="600" font-size="11" fill="#a1a1aa" letter-spacing="2">CAMPUS INTELLIGENCE // 2026</text>
+</svg>"""
+
+with open(os.path.join(ASSETS_DIR, "logo.svg"), "w", encoding="utf-8") as f:
+    f.write(svg_content)
+
+print("Saved assets/logo.svg")

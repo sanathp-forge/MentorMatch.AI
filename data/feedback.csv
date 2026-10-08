@@ -1,0 +1,402 @@
+student_id,mentor_id,rating,feedback,skills_improved,confidence_before,confidence_after
+STU001,MEN001,5.0,Aarav showed me exactly why Docker and FastAPI are mandatory for ML roles. Best session yet!,Data Structures & LeetCode Patterns,60,87
+STU102,MEN015,4.1,Great code review on my GitHub repository. Will implement the suggested Dockerization.,MLOps & CI/CD,44,72
+STU200,MEN017,4.0,Helped clarify my confusion between model training and actual MLOps deployment.,AWS Cloud Architecture,54,76
+STU005,MEN056,4.5,Great code review on my GitHub repository. Will implement the suggested Dockerization.,MLOps & CI/CD,64,94
+STU262,MEN024,4.1,The mock interview gave me high confidence for my upcoming campus drive.,Docker & Containerization,59,93
+STU077,MEN030,4.0,Helped clarify my confusion between model training and actual MLOps deployment.,FastAPI Microservices,61,79
+STU316,MEN026,4.4,The mock interview gave me high confidence for my upcoming campus drive.,Docker & Containerization,42,57
+STU219,MEN062,4.1,Extremely insightful session! Clear actionable milestones provided.,FastAPI Microservices,41,66
+STU180,MEN054,4.2,Extremely insightful session! Clear actionable milestones provided.,Data Structures & LeetCode Patterns,50,76
+STU147,MEN061,4.2,Great code review on my GitHub repository. Will implement the suggested Dockerization.,Data Structures & LeetCode Patterns,63,82
+STU310,MEN048,4.6,Extremely insightful session! Clear actionable milestones provided.,MLOps & CI/CD,49,66
+STU309,MEN016,4.7,Extremely insightful session! Clear actionable milestones provided.,Mock Interview Communication,59,84
+STU079,MEN006,4.6,The mock interview gave me high confidence for my upcoming campus drive.,AWS Cloud Architecture,55,80
+STU061,MEN056,4.5,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,FastAPI Microservices,49,73
+STU141,MEN017,4.1,Helped clarify my confusion between model training and actual MLOps deployment.,AWS Cloud Architecture,65,97
+STU273,MEN010,4.5,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,Resume Storytelling,44,64
+STU140,MEN027,4.6,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,Resume Storytelling,43,75
+STU258,MEN034,4.7,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,Mock Interview Communication,45,77
+STU024,MEN031,4.1,The mock interview gave me high confidence for my upcoming campus drive.,Data Structures & LeetCode Patterns,62,85
+STU128,MEN027,4.6,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,Mock Interview Communication,43,62
+STU144,MEN023,4.7,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,AWS Cloud Architecture,43,59
+STU132,MEN027,4.3,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,Resume Storytelling,52,82
+STU119,MEN056,4.1,Helped clarify my confusion between model training and actual MLOps deployment.,Docker & Containerization,55,75
+STU159,MEN021,4.6,Extremely insightful session! Clear actionable milestones provided.,Mock Interview Communication,58,84
+STU007,MEN013,4.1,Extremely insightful session! Clear actionable milestones provided.,AWS Cloud Architecture,58,91
+STU043,MEN035,5.0,Extremely insightful session! Clear actionable milestones provided.,Mock Interview Communication,54,69
+STU170,MEN062,4.5,The mock interview gave me high confidence for my upcoming campus drive.,MLOps & CI/CD,61,94
+STU053,MEN038,4.0,Helped clarify my confusion between model training and actual MLOps deployment.,MLOps & CI/CD,50,67
+STU198,MEN019,4.9,Great code review on my GitHub repository. Will implement the suggested Dockerization.,AWS Cloud Architecture,42,62
+STU057,MEN029,4.1,The mock interview gave me high confidence for my upcoming campus drive.,Resume Storytelling,59,83
+STU023,MEN020,4.3,Helped clarify my confusion between model training and actual MLOps deployment.,Data Structures & LeetCode Patterns,44,62
+STU155,MEN037,4.9,The mock interview gave me high confidence for my upcoming campus drive.,System Design Fundamentals,60,85
+STU077,MEN019,4.4,Great code review on my GitHub repository. Will implement the suggested Dockerization.,MLOps & CI/CD,62,79
+STU219,MEN036,5.0,Helped clarify my confusion between model training and actual MLOps deployment.,Docker & Containerization,59,89
+STU254,MEN055,4.8,The mock interview gave me high confidence for my upcoming campus drive.,Resume Storytelling,59,92
+STU215,MEN064,4.5,Helped clarify my confusion between model training and actual MLOps deployment.,System Design Fundamentals,45,71
+STU105,MEN003,4.9,Extremely insightful session! Clear actionable milestones provided.,System Design Fundamentals,46,77
+STU151,MEN059,4.2,Helped clarify my confusion between model training and actual MLOps deployment.,Mock Interview Communication,56,71
+STU016,MEN019,4.2,Extremely insightful session! Clear actionable milestones provided.,Docker & Containerization,50,70
+STU048,MEN049,4.6,Helped clarify my confusion between model training and actual MLOps deployment.,System Design Fundamentals,60,82
+STU208,MEN049,4.4,Great code review on my GitHub repository. Will implement the suggested Dockerization.,Resume Storytelling,48,77
+STU054,MEN010,4.2,Helped clarify my confusion between model training and actual MLOps deployment.,System Design Fundamentals,50,66
+STU017,MEN031,4.6,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,FastAPI Microservices,63,92
+STU162,MEN012,4.8,Great code review on my GitHub repository. Will implement the suggested Dockerization.,Docker & Containerization,50,82
+STU258,MEN013,4.6,Great code review on my GitHub repository. Will implement the suggested Dockerization.,Docker & Containerization,44,78
+STU149,MEN021,4.9,Extremely insightful session! Clear actionable milestones provided.,Docker & Containerization,63,96
+STU073,MEN021,4.8,The mock interview gave me high confidence for my upcoming campus drive.,Data Structures & LeetCode Patterns,49,76
+STU311,MEN010,4.8,Helped clarify my confusion between model training and actual MLOps deployment.,Resume Storytelling,55,82
+STU256,MEN013,4.9,Helped clarify my confusion between model training and actual MLOps deployment.,Resume Storytelling,41,64
+STU187,MEN046,4.7,Great code review on my GitHub repository. Will implement the suggested Dockerization.,Resume Storytelling,50,76
+STU227,MEN018,4.4,The mock interview gave me high confidence for my upcoming campus drive.,AWS Cloud Architecture,53,78
+STU067,MEN057,4.1,Great code review on my GitHub repository. Will implement the suggested Dockerization.,Data Structures & LeetCode Patterns,51,74
+STU080,MEN014,4.6,Extremely insightful session! Clear actionable milestones provided.,System Design Fundamentals,55,79
+STU048,MEN045,4.5,Great code review on my GitHub repository. Will implement the suggested Dockerization.,FastAPI Microservices,42,71
+STU034,MEN041,4.7,Great code review on my GitHub repository. Will implement the suggested Dockerization.,FastAPI Microservices,65,90
+STU020,MEN020,4.2,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,FastAPI Microservices,40,59
+STU032,MEN047,4.1,Extremely insightful session! Clear actionable milestones provided.,AWS Cloud Architecture,47,64
+STU091,MEN011,4.4,The mock interview gave me high confidence for my upcoming campus drive.,AWS Cloud Architecture,51,68
+STU110,MEN034,4.9,Great code review on my GitHub repository. Will implement the suggested Dockerization.,FastAPI Microservices,58,80
+STU102,MEN045,4.5,Helped clarify my confusion between model training and actual MLOps deployment.,Docker & Containerization,42,57
+STU293,MEN050,4.7,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,FastAPI Microservices,63,88
+STU163,MEN002,4.5,The mock interview gave me high confidence for my upcoming campus drive.,Mock Interview Communication,44,77
+STU267,MEN001,4.4,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,FastAPI Microservices,60,85
+STU179,MEN027,4.8,Extremely insightful session! Clear actionable milestones provided.,Docker & Containerization,59,77
+STU181,MEN055,4.9,Great code review on my GitHub repository. Will implement the suggested Dockerization.,Data Structures & LeetCode Patterns,62,81
+STU284,MEN021,4.3,Great code review on my GitHub repository. Will implement the suggested Dockerization.,AWS Cloud Architecture,63,80
+STU045,MEN014,4.9,Extremely insightful session! Clear actionable milestones provided.,Docker & Containerization,42,59
+STU052,MEN057,4.3,Great code review on my GitHub repository. Will implement the suggested Dockerization.,Data Structures & LeetCode Patterns,53,75
+STU283,MEN049,4.5,Extremely insightful session! Clear actionable milestones provided.,Resume Storytelling,41,58
+STU203,MEN001,4.3,The mock interview gave me high confidence for my upcoming campus drive.,Data Structures & LeetCode Patterns,50,85
+STU124,MEN001,4.0,The mock interview gave me high confidence for my upcoming campus drive.,Mock Interview Communication,55,76
+STU293,MEN056,4.6,Great code review on my GitHub repository. Will implement the suggested Dockerization.,Mock Interview Communication,59,79
+STU082,MEN056,4.8,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,Docker & Containerization,49,82
+STU134,MEN021,4.1,Great code review on my GitHub repository. Will implement the suggested Dockerization.,Docker & Containerization,54,74
+STU015,MEN011,4.7,Helped clarify my confusion between model training and actual MLOps deployment.,Data Structures & LeetCode Patterns,42,62
+STU123,MEN029,4.8,Great code review on my GitHub repository. Will implement the suggested Dockerization.,Data Structures & LeetCode Patterns,48,67
+STU135,MEN024,4.8,Helped clarify my confusion between model training and actual MLOps deployment.,FastAPI Microservices,62,80
+STU012,MEN053,4.1,Great code review on my GitHub repository. Will implement the suggested Dockerization.,MLOps & CI/CD,46,66
+STU231,MEN021,4.9,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,AWS Cloud Architecture,64,86
+STU131,MEN016,4.0,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,System Design Fundamentals,52,87
+STU059,MEN028,4.2,Helped clarify my confusion between model training and actual MLOps deployment.,System Design Fundamentals,59,87
+STU103,MEN012,4.7,Great code review on my GitHub repository. Will implement the suggested Dockerization.,System Design Fundamentals,46,74
+STU099,MEN033,4.8,The mock interview gave me high confidence for my upcoming campus drive.,Docker & Containerization,51,73
+STU301,MEN040,4.5,Great code review on my GitHub repository. Will implement the suggested Dockerization.,System Design Fundamentals,60,83
+STU103,MEN046,4.2,Extremely insightful session! Clear actionable milestones provided.,FastAPI Microservices,64,84
+STU151,MEN046,4.2,The mock interview gave me high confidence for my upcoming campus drive.,Mock Interview Communication,41,58
+STU126,MEN010,4.1,The mock interview gave me high confidence for my upcoming campus drive.,Resume Storytelling,51,67
+STU006,MEN043,4.8,Helped clarify my confusion between model training and actual MLOps deployment.,Docker & Containerization,42,71
+STU309,MEN028,4.6,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,MLOps & CI/CD,63,80
+STU216,MEN056,4.2,Great code review on my GitHub repository. Will implement the suggested Dockerization.,FastAPI Microservices,58,84
+STU216,MEN016,4.6,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,MLOps & CI/CD,58,81
+STU011,MEN037,4.3,Great code review on my GitHub repository. Will implement the suggested Dockerization.,Mock Interview Communication,54,80
+STU213,MEN039,4.3,Extremely insightful session! Clear actionable milestones provided.,System Design Fundamentals,51,81
+STU025,MEN051,4.8,Extremely insightful session! Clear actionable milestones provided.,MLOps & CI/CD,64,94
+STU015,MEN029,4.1,The mock interview gave me high confidence for my upcoming campus drive.,Data Structures & LeetCode Patterns,57,78
+STU027,MEN034,4.9,Extremely insightful session! Clear actionable milestones provided.,Docker & Containerization,58,78
+STU314,MEN049,4.6,Extremely insightful session! Clear actionable milestones provided.,Resume Storytelling,62,88
+STU271,MEN031,4.5,The mock interview gave me high confidence for my upcoming campus drive.,MLOps & CI/CD,54,83
+STU254,MEN008,4.2,Great code review on my GitHub repository. Will implement the suggested Dockerization.,Mock Interview Communication,65,92
+STU233,MEN020,4.2,The mock interview gave me high confidence for my upcoming campus drive.,AWS Cloud Architecture,54,83
+STU053,MEN019,4.1,Extremely insightful session! Clear actionable milestones provided.,Resume Storytelling,44,71
+STU282,MEN011,4.2,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,MLOps & CI/CD,40,59
+STU028,MEN057,4.0,Great code review on my GitHub repository. Will implement the suggested Dockerization.,AWS Cloud Architecture,52,87
+STU097,MEN052,4.6,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,Docker & Containerization,52,78
+STU026,MEN032,4.1,Extremely insightful session! Clear actionable milestones provided.,AWS Cloud Architecture,53,73
+STU273,MEN013,4.7,Great code review on my GitHub repository. Will implement the suggested Dockerization.,Data Structures & LeetCode Patterns,58,78
+STU113,MEN035,4.8,The mock interview gave me high confidence for my upcoming campus drive.,Resume Storytelling,43,58
+STU002,MEN013,4.3,Helped clarify my confusion between model training and actual MLOps deployment.,System Design Fundamentals,55,74
+STU036,MEN022,4.1,Extremely insightful session! Clear actionable milestones provided.,Docker & Containerization,50,71
+STU011,MEN023,4.7,Extremely insightful session! Clear actionable milestones provided.,AWS Cloud Architecture,55,82
+STU001,MEN063,4.0,Extremely insightful session! Clear actionable milestones provided.,System Design Fundamentals,49,81
+STU156,MEN043,4.4,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,Mock Interview Communication,47,68
+STU187,MEN059,4.7,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,Resume Storytelling,59,89
+STU266,MEN003,4.2,Helped clarify my confusion between model training and actual MLOps deployment.,Mock Interview Communication,53,73
+STU126,MEN056,4.1,Great code review on my GitHub repository. Will implement the suggested Dockerization.,MLOps & CI/CD,61,77
+STU279,MEN058,4.9,The mock interview gave me high confidence for my upcoming campus drive.,MLOps & CI/CD,43,60
+STU214,MEN036,4.6,The mock interview gave me high confidence for my upcoming campus drive.,System Design Fundamentals,62,92
+STU291,MEN045,4.5,Helped clarify my confusion between model training and actual MLOps deployment.,Mock Interview Communication,44,66
+STU149,MEN021,4.1,The mock interview gave me high confidence for my upcoming campus drive.,Resume Storytelling,65,86
+STU003,MEN056,4.3,The mock interview gave me high confidence for my upcoming campus drive.,System Design Fundamentals,55,70
+STU288,MEN020,5.0,Helped clarify my confusion between model training and actual MLOps deployment.,MLOps & CI/CD,60,80
+STU149,MEN029,4.2,Great code review on my GitHub repository. Will implement the suggested Dockerization.,Resume Storytelling,60,84
+STU284,MEN026,4.3,Great code review on my GitHub repository. Will implement the suggested Dockerization.,AWS Cloud Architecture,59,77
+STU050,MEN018,4.3,The mock interview gave me high confidence for my upcoming campus drive.,MLOps & CI/CD,56,80
+STU239,MEN054,4.9,Extremely insightful session! Clear actionable milestones provided.,AWS Cloud Architecture,63,89
+STU315,MEN039,4.6,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,Mock Interview Communication,51,84
+STU028,MEN011,5.0,Extremely insightful session! Clear actionable milestones provided.,Mock Interview Communication,42,57
+STU254,MEN018,4.6,Extremely insightful session! Clear actionable milestones provided.,Data Structures & LeetCode Patterns,51,79
+STU103,MEN015,4.6,Extremely insightful session! Clear actionable milestones provided.,Data Structures & LeetCode Patterns,46,71
+STU054,MEN061,4.1,Extremely insightful session! Clear actionable milestones provided.,Mock Interview Communication,50,85
+STU095,MEN031,4.6,Great code review on my GitHub repository. Will implement the suggested Dockerization.,MLOps & CI/CD,65,88
+STU012,MEN024,4.5,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,Data Structures & LeetCode Patterns,58,83
+STU141,MEN051,4.4,Great code review on my GitHub repository. Will implement the suggested Dockerization.,Data Structures & LeetCode Patterns,44,69
+STU235,MEN016,4.6,Extremely insightful session! Clear actionable milestones provided.,Data Structures & LeetCode Patterns,62,95
+STU184,MEN065,4.9,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,Mock Interview Communication,47,77
+STU090,MEN020,4.7,Helped clarify my confusion between model training and actual MLOps deployment.,FastAPI Microservices,40,65
+STU035,MEN062,4.7,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,MLOps & CI/CD,52,71
+STU166,MEN045,4.0,Helped clarify my confusion between model training and actual MLOps deployment.,Mock Interview Communication,42,73
+STU122,MEN014,5.0,Extremely insightful session! Clear actionable milestones provided.,System Design Fundamentals,54,88
+STU016,MEN023,4.4,Helped clarify my confusion between model training and actual MLOps deployment.,Resume Storytelling,42,71
+STU083,MEN056,4.6,Extremely insightful session! Clear actionable milestones provided.,System Design Fundamentals,64,85
+STU243,MEN065,4.9,Helped clarify my confusion between model training and actual MLOps deployment.,MLOps & CI/CD,62,81
+STU193,MEN010,4.8,The mock interview gave me high confidence for my upcoming campus drive.,Mock Interview Communication,64,80
+STU039,MEN031,4.6,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,Docker & Containerization,47,69
+STU135,MEN004,4.3,The mock interview gave me high confidence for my upcoming campus drive.,Mock Interview Communication,50,76
+STU289,MEN005,4.6,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,System Design Fundamentals,57,76
+STU117,MEN003,4.8,Helped clarify my confusion between model training and actual MLOps deployment.,MLOps & CI/CD,50,80
+STU247,MEN007,4.1,Great code review on my GitHub repository. Will implement the suggested Dockerization.,Data Structures & LeetCode Patterns,59,91
+STU061,MEN048,4.4,Extremely insightful session! Clear actionable milestones provided.,Data Structures & LeetCode Patterns,65,100
+STU302,MEN002,4.8,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,FastAPI Microservices,59,93
+STU128,MEN008,4.4,The mock interview gave me high confidence for my upcoming campus drive.,Data Structures & LeetCode Patterns,49,65
+STU309,MEN032,4.4,Extremely insightful session! Clear actionable milestones provided.,System Design Fundamentals,56,87
+STU279,MEN027,4.2,The mock interview gave me high confidence for my upcoming campus drive.,Resume Storytelling,47,74
+STU126,MEN035,4.3,Great code review on my GitHub repository. Will implement the suggested Dockerization.,System Design Fundamentals,62,77
+STU105,MEN018,4.7,Helped clarify my confusion between model training and actual MLOps deployment.,AWS Cloud Architecture,48,69
+STU073,MEN005,4.8,Extremely insightful session! Clear actionable milestones provided.,Docker & Containerization,49,64
+STU143,MEN050,4.4,Great code review on my GitHub repository. Will implement the suggested Dockerization.,Resume Storytelling,60,95
+STU157,MEN005,4.9,The mock interview gave me high confidence for my upcoming campus drive.,Mock Interview Communication,42,68
+STU030,MEN014,4.9,The mock interview gave me high confidence for my upcoming campus drive.,Mock Interview Communication,64,83
+STU291,MEN034,4.7,Helped clarify my confusion between model training and actual MLOps deployment.,AWS Cloud Architecture,60,87
+STU141,MEN011,4.6,Extremely insightful session! Clear actionable milestones provided.,MLOps & CI/CD,59,88
+STU129,MEN002,4.7,The mock interview gave me high confidence for my upcoming campus drive.,Mock Interview Communication,43,66
+STU009,MEN057,5.0,Great code review on my GitHub repository. Will implement the suggested Dockerization.,Mock Interview Communication,48,69
+STU297,MEN011,4.4,The mock interview gave me high confidence for my upcoming campus drive.,AWS Cloud Architecture,49,69
+STU026,MEN030,4.7,Great code review on my GitHub repository. Will implement the suggested Dockerization.,FastAPI Microservices,50,65
+STU260,MEN057,4.2,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,Mock Interview Communication,41,66
+STU219,MEN037,4.6,The mock interview gave me high confidence for my upcoming campus drive.,MLOps & CI/CD,51,70
+STU192,MEN061,4.4,The mock interview gave me high confidence for my upcoming campus drive.,Docker & Containerization,63,90
+STU055,MEN028,4.4,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,MLOps & CI/CD,60,88
+STU041,MEN010,4.7,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,MLOps & CI/CD,52,72
+STU269,MEN057,4.8,The mock interview gave me high confidence for my upcoming campus drive.,System Design Fundamentals,59,75
+STU186,MEN030,5.0,Helped clarify my confusion between model training and actual MLOps deployment.,Docker & Containerization,50,83
+STU041,MEN046,4.7,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,AWS Cloud Architecture,56,72
+STU118,MEN017,4.9,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,FastAPI Microservices,55,72
+STU147,MEN044,4.4,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,FastAPI Microservices,44,63
+STU102,MEN024,4.1,The mock interview gave me high confidence for my upcoming campus drive.,Data Structures & LeetCode Patterns,56,76
+STU018,MEN056,4.1,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,MLOps & CI/CD,42,68
+STU182,MEN058,4.8,The mock interview gave me high confidence for my upcoming campus drive.,Resume Storytelling,50,67
+STU094,MEN011,4.6,Great code review on my GitHub repository. Will implement the suggested Dockerization.,Mock Interview Communication,50,67
+STU175,MEN007,4.3,The mock interview gave me high confidence for my upcoming campus drive.,Docker & Containerization,52,84
+STU108,MEN056,4.9,The mock interview gave me high confidence for my upcoming campus drive.,Resume Storytelling,56,84
+STU085,MEN016,4.4,Helped clarify my confusion between model training and actual MLOps deployment.,FastAPI Microservices,62,81
+STU283,MEN022,4.5,Helped clarify my confusion between model training and actual MLOps deployment.,AWS Cloud Architecture,46,75
+STU190,MEN027,4.4,Helped clarify my confusion between model training and actual MLOps deployment.,Data Structures & LeetCode Patterns,43,66
+STU062,MEN057,4.1,Helped clarify my confusion between model training and actual MLOps deployment.,Docker & Containerization,47,63
+STU172,MEN036,4.7,Extremely insightful session! Clear actionable milestones provided.,Data Structures & LeetCode Patterns,41,76
+STU267,MEN041,4.6,Helped clarify my confusion between model training and actual MLOps deployment.,Docker & Containerization,55,71
+STU113,MEN026,4.5,Helped clarify my confusion between model training and actual MLOps deployment.,AWS Cloud Architecture,47,69
+STU102,MEN012,4.4,Great code review on my GitHub repository. Will implement the suggested Dockerization.,MLOps & CI/CD,44,75
+STU179,MEN062,4.8,The mock interview gave me high confidence for my upcoming campus drive.,Resume Storytelling,50,77
+STU201,MEN046,4.1,Extremely insightful session! Clear actionable milestones provided.,System Design Fundamentals,40,71
+STU164,MEN015,4.1,Great code review on my GitHub repository. Will implement the suggested Dockerization.,Resume Storytelling,55,70
+STU121,MEN004,4.2,Great code review on my GitHub repository. Will implement the suggested Dockerization.,Docker & Containerization,57,74
+STU134,MEN041,4.4,Great code review on my GitHub repository. Will implement the suggested Dockerization.,Docker & Containerization,46,79
+STU249,MEN029,4.4,Helped clarify my confusion between model training and actual MLOps deployment.,Mock Interview Communication,46,68
+STU057,MEN043,4.0,Great code review on my GitHub repository. Will implement the suggested Dockerization.,FastAPI Microservices,40,66
+STU275,MEN026,4.7,The mock interview gave me high confidence for my upcoming campus drive.,AWS Cloud Architecture,58,84
+STU212,MEN028,4.0,Extremely insightful session! Clear actionable milestones provided.,AWS Cloud Architecture,52,73
+STU249,MEN006,4.0,Helped clarify my confusion between model training and actual MLOps deployment.,System Design Fundamentals,57,72
+STU040,MEN010,4.0,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,MLOps & CI/CD,48,80
+STU302,MEN051,4.3,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,AWS Cloud Architecture,56,83
+STU235,MEN026,4.6,Great code review on my GitHub repository. Will implement the suggested Dockerization.,System Design Fundamentals,46,80
+STU114,MEN053,4.3,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,MLOps & CI/CD,50,71
+STU255,MEN051,4.2,Extremely insightful session! Clear actionable milestones provided.,FastAPI Microservices,48,75
+STU190,MEN062,4.3,Helped clarify my confusion between model training and actual MLOps deployment.,Mock Interview Communication,60,84
+STU087,MEN027,4.1,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,Resume Storytelling,40,69
+STU291,MEN030,4.4,The mock interview gave me high confidence for my upcoming campus drive.,FastAPI Microservices,46,66
+STU290,MEN053,4.2,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,FastAPI Microservices,41,68
+STU161,MEN031,4.5,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,Data Structures & LeetCode Patterns,63,84
+STU040,MEN049,4.5,Extremely insightful session! Clear actionable milestones provided.,System Design Fundamentals,64,97
+STU059,MEN005,4.6,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,System Design Fundamentals,62,83
+STU281,MEN054,4.1,The mock interview gave me high confidence for my upcoming campus drive.,Docker & Containerization,51,80
+STU315,MEN048,4.3,Helped clarify my confusion between model training and actual MLOps deployment.,Data Structures & LeetCode Patterns,60,95
+STU129,MEN061,4.9,Helped clarify my confusion between model training and actual MLOps deployment.,Data Structures & LeetCode Patterns,58,81
+STU243,MEN002,4.2,Extremely insightful session! Clear actionable milestones provided.,System Design Fundamentals,56,71
+STU180,MEN029,4.3,Great code review on my GitHub repository. Will implement the suggested Dockerization.,AWS Cloud Architecture,40,61
+STU207,MEN033,4.6,Extremely insightful session! Clear actionable milestones provided.,Mock Interview Communication,50,71
+STU135,MEN014,4.6,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,MLOps & CI/CD,63,90
+STU243,MEN027,4.2,Helped clarify my confusion between model training and actual MLOps deployment.,AWS Cloud Architecture,54,81
+STU074,MEN022,4.1,Extremely insightful session! Clear actionable milestones provided.,System Design Fundamentals,55,85
+STU218,MEN061,4.8,Helped clarify my confusion between model training and actual MLOps deployment.,FastAPI Microservices,65,87
+STU243,MEN046,4.1,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,Docker & Containerization,59,77
+STU143,MEN019,4.7,The mock interview gave me high confidence for my upcoming campus drive.,Docker & Containerization,40,74
+STU179,MEN023,4.5,The mock interview gave me high confidence for my upcoming campus drive.,Docker & Containerization,40,63
+STU287,MEN025,4.9,Extremely insightful session! Clear actionable milestones provided.,Resume Storytelling,49,78
+STU270,MEN025,4.1,The mock interview gave me high confidence for my upcoming campus drive.,AWS Cloud Architecture,63,96
+STU311,MEN035,4.5,Extremely insightful session! Clear actionable milestones provided.,MLOps & CI/CD,43,59
+STU215,MEN016,4.7,The mock interview gave me high confidence for my upcoming campus drive.,Data Structures & LeetCode Patterns,46,81
+STU100,MEN003,4.2,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,FastAPI Microservices,53,79
+STU076,MEN035,4.0,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,Docker & Containerization,48,76
+STU089,MEN001,4.4,The mock interview gave me high confidence for my upcoming campus drive.,FastAPI Microservices,49,65
+STU045,MEN060,4.2,Extremely insightful session! Clear actionable milestones provided.,System Design Fundamentals,49,68
+STU011,MEN022,4.4,Extremely insightful session! Clear actionable milestones provided.,FastAPI Microservices,54,75
+STU098,MEN017,4.7,Helped clarify my confusion between model training and actual MLOps deployment.,Mock Interview Communication,60,75
+STU162,MEN053,4.9,Helped clarify my confusion between model training and actual MLOps deployment.,FastAPI Microservices,45,60
+STU226,MEN034,4.6,The mock interview gave me high confidence for my upcoming campus drive.,Mock Interview Communication,42,64
+STU300,MEN050,4.4,The mock interview gave me high confidence for my upcoming campus drive.,System Design Fundamentals,58,90
+STU258,MEN035,4.2,The mock interview gave me high confidence for my upcoming campus drive.,Mock Interview Communication,48,63
+STU096,MEN061,4.3,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,Data Structures & LeetCode Patterns,42,61
+STU216,MEN061,4.9,Helped clarify my confusion between model training and actual MLOps deployment.,Resume Storytelling,42,69
+STU192,MEN044,4.0,Helped clarify my confusion between model training and actual MLOps deployment.,Mock Interview Communication,40,56
+STU154,MEN026,4.7,Extremely insightful session! Clear actionable milestones provided.,Resume Storytelling,53,82
+STU178,MEN059,4.0,Helped clarify my confusion between model training and actual MLOps deployment.,Docker & Containerization,45,60
+STU158,MEN011,4.2,Extremely insightful session! Clear actionable milestones provided.,System Design Fundamentals,61,78
+STU285,MEN048,4.3,Great code review on my GitHub repository. Will implement the suggested Dockerization.,Mock Interview Communication,62,86
+STU218,MEN051,4.5,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,Docker & Containerization,46,69
+STU092,MEN031,4.5,Extremely insightful session! Clear actionable milestones provided.,Data Structures & LeetCode Patterns,61,84
+STU118,MEN018,4.2,Great code review on my GitHub repository. Will implement the suggested Dockerization.,Docker & Containerization,47,76
+STU093,MEN055,4.4,Great code review on my GitHub repository. Will implement the suggested Dockerization.,Resume Storytelling,60,76
+STU092,MEN021,4.8,The mock interview gave me high confidence for my upcoming campus drive.,Data Structures & LeetCode Patterns,57,87
+STU083,MEN041,4.5,Great code review on my GitHub repository. Will implement the suggested Dockerization.,System Design Fundamentals,62,78
+STU156,MEN055,4.8,Great code review on my GitHub repository. Will implement the suggested Dockerization.,MLOps & CI/CD,51,68
+STU172,MEN047,4.5,Great code review on my GitHub repository. Will implement the suggested Dockerization.,AWS Cloud Architecture,54,84
+STU173,MEN034,4.0,The mock interview gave me high confidence for my upcoming campus drive.,AWS Cloud Architecture,51,77
+STU236,MEN047,4.4,The mock interview gave me high confidence for my upcoming campus drive.,MLOps & CI/CD,50,85
+STU092,MEN038,4.4,The mock interview gave me high confidence for my upcoming campus drive.,Resume Storytelling,53,73
+STU183,MEN005,4.2,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,MLOps & CI/CD,51,80
+STU075,MEN064,5.0,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,AWS Cloud Architecture,64,88
+STU235,MEN006,4.0,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,Resume Storytelling,61,91
+STU099,MEN034,4.8,The mock interview gave me high confidence for my upcoming campus drive.,FastAPI Microservices,51,79
+STU141,MEN024,4.4,Helped clarify my confusion between model training and actual MLOps deployment.,AWS Cloud Architecture,59,82
+STU209,MEN027,4.1,The mock interview gave me high confidence for my upcoming campus drive.,Mock Interview Communication,50,76
+STU163,MEN013,4.7,Helped clarify my confusion between model training and actual MLOps deployment.,AWS Cloud Architecture,54,86
+STU278,MEN050,4.3,The mock interview gave me high confidence for my upcoming campus drive.,AWS Cloud Architecture,41,66
+STU256,MEN027,4.4,Great code review on my GitHub repository. Will implement the suggested Dockerization.,AWS Cloud Architecture,59,84
+STU250,MEN045,5.0,The mock interview gave me high confidence for my upcoming campus drive.,AWS Cloud Architecture,65,98
+STU232,MEN060,4.6,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,Resume Storytelling,65,86
+STU193,MEN017,4.4,Helped clarify my confusion between model training and actual MLOps deployment.,FastAPI Microservices,42,70
+STU055,MEN041,4.9,Great code review on my GitHub repository. Will implement the suggested Dockerization.,Docker & Containerization,56,88
+STU081,MEN023,4.5,The mock interview gave me high confidence for my upcoming campus drive.,Docker & Containerization,56,74
+STU051,MEN050,4.4,Extremely insightful session! Clear actionable milestones provided.,AWS Cloud Architecture,48,80
+STU318,MEN065,4.3,Helped clarify my confusion between model training and actual MLOps deployment.,MLOps & CI/CD,63,85
+STU242,MEN012,4.6,Great code review on my GitHub repository. Will implement the suggested Dockerization.,MLOps & CI/CD,55,73
+STU189,MEN031,4.9,The mock interview gave me high confidence for my upcoming campus drive.,Resume Storytelling,63,89
+STU016,MEN027,4.2,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,Data Structures & LeetCode Patterns,56,83
+STU082,MEN032,4.7,Great code review on my GitHub repository. Will implement the suggested Dockerization.,Resume Storytelling,58,84
+STU274,MEN004,4.7,The mock interview gave me high confidence for my upcoming campus drive.,Data Structures & LeetCode Patterns,62,80
+STU205,MEN057,4.1,The mock interview gave me high confidence for my upcoming campus drive.,Mock Interview Communication,60,95
+STU212,MEN044,4.5,The mock interview gave me high confidence for my upcoming campus drive.,Docker & Containerization,44,65
+STU268,MEN037,4.6,The mock interview gave me high confidence for my upcoming campus drive.,FastAPI Microservices,65,96
+STU117,MEN004,4.6,The mock interview gave me high confidence for my upcoming campus drive.,FastAPI Microservices,55,74
+STU265,MEN052,4.6,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,Data Structures & LeetCode Patterns,62,86
+STU090,MEN062,4.9,The mock interview gave me high confidence for my upcoming campus drive.,System Design Fundamentals,64,91
+STU115,MEN020,4.2,Great code review on my GitHub repository. Will implement the suggested Dockerization.,FastAPI Microservices,46,78
+STU051,MEN043,4.6,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,Docker & Containerization,46,61
+STU291,MEN032,4.7,Helped clarify my confusion between model training and actual MLOps deployment.,FastAPI Microservices,40,64
+STU021,MEN035,4.7,Extremely insightful session! Clear actionable milestones provided.,FastAPI Microservices,46,66
+STU032,MEN027,4.8,Great code review on my GitHub repository. Will implement the suggested Dockerization.,Mock Interview Communication,42,65
+STU227,MEN011,4.5,Helped clarify my confusion between model training and actual MLOps deployment.,MLOps & CI/CD,43,71
+STU005,MEN056,4.6,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,Docker & Containerization,61,88
+STU209,MEN035,4.5,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,System Design Fundamentals,62,96
+STU273,MEN032,4.6,The mock interview gave me high confidence for my upcoming campus drive.,MLOps & CI/CD,50,77
+STU250,MEN001,4.2,Extremely insightful session! Clear actionable milestones provided.,Resume Storytelling,46,70
+STU110,MEN040,4.8,Great code review on my GitHub repository. Will implement the suggested Dockerization.,Mock Interview Communication,59,92
+STU108,MEN020,4.8,Helped clarify my confusion between model training and actual MLOps deployment.,Docker & Containerization,60,94
+STU081,MEN042,4.6,Great code review on my GitHub repository. Will implement the suggested Dockerization.,Docker & Containerization,61,91
+STU242,MEN039,4.3,The mock interview gave me high confidence for my upcoming campus drive.,MLOps & CI/CD,55,80
+STU165,MEN055,4.6,Helped clarify my confusion between model training and actual MLOps deployment.,Mock Interview Communication,40,63
+STU226,MEN036,4.2,Great code review on my GitHub repository. Will implement the suggested Dockerization.,FastAPI Microservices,65,92
+STU200,MEN063,4.6,Extremely insightful session! Clear actionable milestones provided.,MLOps & CI/CD,53,86
+STU176,MEN036,4.9,Extremely insightful session! Clear actionable milestones provided.,Docker & Containerization,61,91
+STU302,MEN039,4.1,Helped clarify my confusion between model training and actual MLOps deployment.,Mock Interview Communication,52,68
+STU165,MEN060,4.3,The mock interview gave me high confidence for my upcoming campus drive.,Mock Interview Communication,64,81
+STU012,MEN018,4.4,Great code review on my GitHub repository. Will implement the suggested Dockerization.,FastAPI Microservices,48,80
+STU263,MEN048,5.0,The mock interview gave me high confidence for my upcoming campus drive.,FastAPI Microservices,42,64
+STU058,MEN021,4.9,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,MLOps & CI/CD,54,81
+STU221,MEN036,4.2,The mock interview gave me high confidence for my upcoming campus drive.,Mock Interview Communication,47,81
+STU295,MEN044,4.4,The mock interview gave me high confidence for my upcoming campus drive.,System Design Fundamentals,41,66
+STU010,MEN002,4.2,Helped clarify my confusion between model training and actual MLOps deployment.,Data Structures & LeetCode Patterns,57,86
+STU158,MEN024,4.6,Extremely insightful session! Clear actionable milestones provided.,FastAPI Microservices,59,87
+STU036,MEN042,4.2,The mock interview gave me high confidence for my upcoming campus drive.,Docker & Containerization,40,59
+STU064,MEN049,4.7,Helped clarify my confusion between model training and actual MLOps deployment.,FastAPI Microservices,56,85
+STU225,MEN052,4.4,Extremely insightful session! Clear actionable milestones provided.,Mock Interview Communication,56,76
+STU297,MEN016,4.9,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,Resume Storytelling,48,81
+STU098,MEN027,4.3,Extremely insightful session! Clear actionable milestones provided.,Docker & Containerization,65,97
+STU195,MEN054,4.4,The mock interview gave me high confidence for my upcoming campus drive.,FastAPI Microservices,48,81
+STU091,MEN002,4.7,Extremely insightful session! Clear actionable milestones provided.,Mock Interview Communication,62,93
+STU089,MEN023,4.8,Helped clarify my confusion between model training and actual MLOps deployment.,System Design Fundamentals,45,74
+STU016,MEN064,4.6,The mock interview gave me high confidence for my upcoming campus drive.,System Design Fundamentals,45,61
+STU170,MEN004,4.9,Great code review on my GitHub repository. Will implement the suggested Dockerization.,Resume Storytelling,59,84
+STU307,MEN022,4.3,Helped clarify my confusion between model training and actual MLOps deployment.,FastAPI Microservices,43,62
+STU058,MEN061,4.9,Great code review on my GitHub repository. Will implement the suggested Dockerization.,Mock Interview Communication,46,76
+STU001,MEN040,4.1,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,Resume Storytelling,47,62
+STU050,MEN062,4.2,Helped clarify my confusion between model training and actual MLOps deployment.,AWS Cloud Architecture,64,99
+STU128,MEN029,4.7,The mock interview gave me high confidence for my upcoming campus drive.,Docker & Containerization,64,91
+STU094,MEN002,4.8,Helped clarify my confusion between model training and actual MLOps deployment.,Data Structures & LeetCode Patterns,49,69
+STU293,MEN062,4.6,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,Mock Interview Communication,50,83
+STU233,MEN034,4.7,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,FastAPI Microservices,47,76
+STU131,MEN044,4.1,The mock interview gave me high confidence for my upcoming campus drive.,AWS Cloud Architecture,43,63
+STU219,MEN004,4.2,Great code review on my GitHub repository. Will implement the suggested Dockerization.,Docker & Containerization,44,78
+STU152,MEN017,4.4,Extremely insightful session! Clear actionable milestones provided.,MLOps & CI/CD,54,84
+STU182,MEN020,4.5,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,Docker & Containerization,65,93
+STU192,MEN021,4.6,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,MLOps & CI/CD,62,93
+STU313,MEN055,5.0,Great code review on my GitHub repository. Will implement the suggested Dockerization.,FastAPI Microservices,60,92
+STU216,MEN061,4.7,The mock interview gave me high confidence for my upcoming campus drive.,Docker & Containerization,53,83
+STU285,MEN040,4.8,Helped clarify my confusion between model training and actual MLOps deployment.,Resume Storytelling,48,76
+STU125,MEN051,4.6,Helped clarify my confusion between model training and actual MLOps deployment.,FastAPI Microservices,42,59
+STU142,MEN018,4.7,Helped clarify my confusion between model training and actual MLOps deployment.,Mock Interview Communication,48,74
+STU142,MEN042,4.3,Extremely insightful session! Clear actionable milestones provided.,Data Structures & LeetCode Patterns,52,83
+STU225,MEN039,4.1,The mock interview gave me high confidence for my upcoming campus drive.,Docker & Containerization,44,62
+STU250,MEN038,5.0,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,AWS Cloud Architecture,45,62
+STU254,MEN056,4.1,The mock interview gave me high confidence for my upcoming campus drive.,Mock Interview Communication,61,82
+STU261,MEN043,4.1,Extremely insightful session! Clear actionable milestones provided.,MLOps & CI/CD,61,93
+STU303,MEN013,5.0,Helped clarify my confusion between model training and actual MLOps deployment.,Mock Interview Communication,57,80
+STU310,MEN054,4.6,Great code review on my GitHub repository. Will implement the suggested Dockerization.,Resume Storytelling,42,62
+STU291,MEN024,4.3,Great code review on my GitHub repository. Will implement the suggested Dockerization.,Docker & Containerization,43,75
+STU184,MEN045,4.4,Extremely insightful session! Clear actionable milestones provided.,AWS Cloud Architecture,47,68
+STU135,MEN021,4.4,The mock interview gave me high confidence for my upcoming campus drive.,Resume Storytelling,49,68
+STU047,MEN052,4.2,Great code review on my GitHub repository. Will implement the suggested Dockerization.,Docker & Containerization,40,66
+STU249,MEN045,4.8,Helped clarify my confusion between model training and actual MLOps deployment.,FastAPI Microservices,56,71
+STU098,MEN040,4.6,Helped clarify my confusion between model training and actual MLOps deployment.,Docker & Containerization,56,79
+STU039,MEN026,4.6,Great code review on my GitHub repository. Will implement the suggested Dockerization.,MLOps & CI/CD,49,68
+STU175,MEN046,4.1,The mock interview gave me high confidence for my upcoming campus drive.,Data Structures & LeetCode Patterns,47,77
+STU227,MEN006,5.0,Extremely insightful session! Clear actionable milestones provided.,Mock Interview Communication,46,76
+STU113,MEN032,4.8,Helped clarify my confusion between model training and actual MLOps deployment.,FastAPI Microservices,55,76
+STU011,MEN062,4.6,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,FastAPI Microservices,45,72
+STU187,MEN034,4.9,Helped clarify my confusion between model training and actual MLOps deployment.,AWS Cloud Architecture,44,63
+STU040,MEN018,4.5,Helped clarify my confusion between model training and actual MLOps deployment.,Mock Interview Communication,64,81
+STU244,MEN041,4.3,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,AWS Cloud Architecture,56,73
+STU295,MEN007,4.6,Extremely insightful session! Clear actionable milestones provided.,Resume Storytelling,47,82
+STU230,MEN008,4.7,Extremely insightful session! Clear actionable milestones provided.,Data Structures & LeetCode Patterns,60,86
+STU221,MEN018,4.5,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,Docker & Containerization,48,76
+STU292,MEN053,4.0,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,Docker & Containerization,64,92
+STU083,MEN025,4.2,Great code review on my GitHub repository. Will implement the suggested Dockerization.,Docker & Containerization,50,77
+STU049,MEN052,4.4,Great code review on my GitHub repository. Will implement the suggested Dockerization.,Resume Storytelling,46,72
+STU050,MEN040,4.4,The mock interview gave me high confidence for my upcoming campus drive.,Data Structures & LeetCode Patterns,54,88
+STU134,MEN052,5.0,Extremely insightful session! Clear actionable milestones provided.,Mock Interview Communication,63,82
+STU269,MEN033,4.1,The mock interview gave me high confidence for my upcoming campus drive.,Resume Storytelling,59,90
+STU271,MEN002,4.3,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,AWS Cloud Architecture,60,95
+STU097,MEN064,4.1,Helped clarify my confusion between model training and actual MLOps deployment.,System Design Fundamentals,47,81
+STU226,MEN023,4.8,Extremely insightful session! Clear actionable milestones provided.,Resume Storytelling,55,72
+STU160,MEN038,4.2,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,Resume Storytelling,59,74
+STU073,MEN031,4.4,The mock interview gave me high confidence for my upcoming campus drive.,FastAPI Microservices,42,74
+STU303,MEN013,4.7,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,Docker & Containerization,62,81
+STU103,MEN037,4.8,The mock interview gave me high confidence for my upcoming campus drive.,Resume Storytelling,51,74
+STU194,MEN011,4.1,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,MLOps & CI/CD,48,77
+STU022,MEN025,4.7,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,MLOps & CI/CD,49,81
+STU025,MEN004,4.2,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,Mock Interview Communication,49,79
+STU261,MEN023,4.7,Helped clarify my confusion between model training and actual MLOps deployment.,AWS Cloud Architecture,52,85
+STU114,MEN041,4.2,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,FastAPI Microservices,55,80
+STU106,MEN015,4.7,The mock interview gave me high confidence for my upcoming campus drive.,MLOps & CI/CD,62,92
+STU191,MEN052,4.6,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,FastAPI Microservices,57,88
+STU293,MEN040,4.7,Great code review on my GitHub repository. Will implement the suggested Dockerization.,System Design Fundamentals,48,83
+STU098,MEN063,4.7,Extremely insightful session! Clear actionable milestones provided.,Data Structures & LeetCode Patterns,48,72
+STU035,MEN024,4.9,The mock interview gave me high confidence for my upcoming campus drive.,Data Structures & LeetCode Patterns,50,75
+STU147,MEN037,4.8,Great code review on my GitHub repository. Will implement the suggested Dockerization.,MLOps & CI/CD,58,79
+STU255,MEN026,4.5,Extremely insightful session! Clear actionable milestones provided.,MLOps & CI/CD,49,70
+STU292,MEN002,5.0,Helped clarify my confusion between model training and actual MLOps deployment.,System Design Fundamentals,56,84
+STU029,MEN051,4.5,Helped clarify my confusion between model training and actual MLOps deployment.,Resume Storytelling,48,82
+STU225,MEN004,4.2,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,AWS Cloud Architecture,61,82
+STU074,MEN041,4.1,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,Data Structures & LeetCode Patterns,65,89
+STU087,MEN042,4.9,Helped clarify my confusion between model training and actual MLOps deployment.,MLOps & CI/CD,61,87
+STU289,MEN008,4.2,Extremely insightful session! Clear actionable milestones provided.,AWS Cloud Architecture,46,75
+STU244,MEN050,4.9,Helped clarify my confusion between model training and actual MLOps deployment.,Data Structures & LeetCode Patterns,43,67
+STU177,MEN059,4.5,The mock interview gave me high confidence for my upcoming campus drive.,MLOps & CI/CD,46,80
+STU090,MEN050,4.7,Great code review on my GitHub repository. Will implement the suggested Dockerization.,Mock Interview Communication,45,80
+STU181,MEN027,4.5,Great code review on my GitHub repository. Will implement the suggested Dockerization.,Resume Storytelling,51,73
+STU187,MEN044,4.7,Helped clarify my confusion between model training and actual MLOps deployment.,Mock Interview Communication,55,78
+STU192,MEN040,4.5,Practical and direct guidance. Mentor mapped out my entire 6-month timeline.,AWS Cloud Architecture,57,82
+STU212,MEN007,4.6,Helped clarify my confusion between model training and actual MLOps deployment.,FastAPI Microservices,48,82
+STU093,MEN057,4.6,Helped clarify my confusion between model training and actual MLOps deployment.,Resume Storytelling,48,66

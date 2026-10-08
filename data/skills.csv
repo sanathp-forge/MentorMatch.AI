@@ -1,0 +1,41 @@
+skill_name,category,demand_level,trending_score
+Python,Core Tech,High,98
+Java,Core Tech,Medium,82
+JavaScript,Web Dev,High,90
+React,Web Dev,High,94
+Node.js,Backend,High,89
+FastAPI,Backend,High,92
+Django,Backend,Medium,78
+Machine Learning,AI/Data,Very High,99
+Deep Learning,AI/Data,High,95
+NLP,AI/Data,High,96
+Computer Vision,AI/Data,High,91
+SQL,Databases,Very High,96
+MongoDB,Databases,Medium,84
+AWS,Cloud,Very High,97
+Azure,Cloud,High,88
+GCP,Cloud,Medium,85
+Docker,DevOps,Very High,95
+Kubernetes,DevOps,High,92
+Git,Tools,High,94
+GitHub,Tools,High,95
+System Design,Architecture,Very High,98
+Data Structures,Fundamentals,Very High,99
+Algorithms,Fundamentals,Very High,97
+Cybersecurity,Security,High,90
+UI/UX,Design,High,86
+Figma,Design,Medium,85
+Product Management,Management,High,88
+Communication,Soft Skills,Very High,94
+Leadership,Soft Skills,Medium,82
+Public Speaking,Soft Skills,Medium,80
+Research,Academic,Medium,75
+Data Analysis,AI/Data,High,93
+Power BI,Analytics,Medium,84
+Tableau,Analytics,Medium,83
+DevOps,Cloud,Very High,95
+MLOps,AI/Data,Very High,98
+Generative AI,AI/Data,Very High,100
+LLMs,AI/Data,Very High,99
+RAG,AI/Data,Very High,97
+Prompt Engineering,AI/Data,High,90
